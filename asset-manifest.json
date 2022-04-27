@@ -1,0 +1,15 @@
+{
+  "files": {
+    "main.css": "/react-star-rating-component/static/css/main.5fcef4aa.css",
+    "main.js": "/react-star-rating-component/static/js/main.34c5139a.js",
+    "static/js/787.a38235a8.chunk.js": "/react-star-rating-component/static/js/787.a38235a8.chunk.js",
+    "index.html": "/react-star-rating-component/index.html",
+    "main.5fcef4aa.css.map": "/react-star-rating-component/static/css/main.5fcef4aa.css.map",
+    "main.34c5139a.js.map": "/react-star-rating-component/static/js/main.34c5139a.js.map",
+    "787.a38235a8.chunk.js.map": "/react-star-rating-component/static/js/787.a38235a8.chunk.js.map"
+  },
+  "entrypoints": [
+    "static/css/main.5fcef4aa.css",
+    "static/js/main.34c5139a.js"
+  ]
+}
